@@ -5,7 +5,6 @@ Návrh aplikace [zde](https://www.figma.com/file/icMq6lVPGjWFFUewRI59Fw/Untitled
 * Záznam statistik z celého kola
 * Možnost focení a uložení fotek do galerie přímo v aplikaci
 * GPS měření vzdálenosti ran
-* Mapa a ceník hřišť 
 * Porovnání s ostatními uživateli
 ## Log In
 Do aplikace by se mělo jít přihlásit přes E-Mail a heslo. Také by měla být možna registrace a přihlášení přes **Google**, **Facebook** a **Instagram**.
