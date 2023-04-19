@@ -7,3 +7,4 @@ Figma mockup [zde](https://www.figma.com/file/icMq6lVPGjWFFUewRI59Fw/Untitled?no
 * GPS měření vzdálenosti ran
 * Mapa a ceník hřišť 
 * Porovnání s ostatními uživateli
+# Záznam statistik
