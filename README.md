@@ -8,6 +8,7 @@ Návrh aplikace [zde](https://www.figma.com/file/icMq6lVPGjWFFUewRI59Fw/Untitled
 * Porovnání s ostatními uživateli
 ## Log In
 Do aplikace by se mělo jít přihlásit přes E-Mail a heslo. Také by měla být možna registrace a přihlášení přes **Google**, **Facebook** a **Instagram**.
+![Log In](https://github.com/pslib-cz/2022l4web-app-mockup-Toumas29/blob/main/log%20in.PNG)
 ## Profile
 V záložce profile máme svů profil, kde  vidíme svoje jméno, handicap, počet zapsaných kol, nejlepší zapsané skóre za kolo, průměrné skóre za kolo a své přidané přátelé.
 * Také tam je možnost přidání přátel, kde by měl být list z serveru ČGF, kde jsou všichni hráči České Golfové Federace. A další tlačítko umužňuje ukázání listu všech vašich přidaných přátel.
