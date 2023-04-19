@@ -24,4 +24,4 @@ Zde se zapisují všechny vaše statistiky a v podstatě je to mozek celé aplik
 * Graf GIR(Green In Regulation), počítá se procento z 18ti možných GIR. Hráč buď v zápisu zaškrtne, že má GIR nebo ne a pak se vypočítá procento z 18ti možných GIR.
 * Graf trefených fairwayí, počet trefených fairwayí na hřišti, stejný zápis jako u GIR
 * Tlačítkem **NEW ROUND** se dostaneme do zápisu nového kola.
-*
+
