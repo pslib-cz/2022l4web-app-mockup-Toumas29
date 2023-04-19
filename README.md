@@ -17,4 +17,11 @@ Měření vzdálenosti by mělo fungovat pomocí aktuální polohy a polohy odpa
 Hráč následně může filtrovat dle holí a dívat se zpětně na své statistiky
 ## Fotoaparát
 Aplikace obsahuje i fotoaprát, kde hráč může zachytit různé momenty na hřišti. Fotky se ukládají do galerii aplikace.
-
+## Statistiky
+Zde se zapisují všechny vaše statistiky a v podstatě je to mozek celé aplikace.
+* Graf zahraných ran ze všech kol(výsledky obvykle od 70 ran do 120 ran)
+* Graf zahraných puttů ze všech kol
+* Graf GIR(Green In Regulation), počítá se procento z 18ti možných GIR. Hráč buď v zápisu zaškrtne, že má GIR nebo ne a pak se vypočítá procento z 18ti možných GIR.
+* Graf trefených fairwayí, počet trefených fairwayí na hřišti, stejný zápis jako u GIR
+* Tlačítkem **NEW ROUND** se dostaneme do zápisu nového kola.
+*
