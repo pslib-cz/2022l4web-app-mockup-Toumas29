@@ -7,4 +7,6 @@ Návrh aplikace [zde](https://www.figma.com/file/icMq6lVPGjWFFUewRI59Fw/Untitled
 * GPS měření vzdálenosti ran
 * Mapa a ceník hřišť 
 * Porovnání s ostatními uživateli
-# Záznam statistik
+# Log In
+Do aplikace by se mělo jít přihlásit přes E-Mail a heslo. Také by měla být možna registrace a přihlášení přes **Google**, **Facebook** **Instagram**.
+
