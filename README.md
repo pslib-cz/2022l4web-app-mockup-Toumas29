@@ -8,7 +8,7 @@ Návrh aplikace [zde](https://www.figma.com/file/icMq6lVPGjWFFUewRI59Fw/Untitled
 * Mapa a ceník hřišť 
 * Porovnání s ostatními uživateli
 ## Log In
-Do aplikace by se mělo jít přihlásit přes E-Mail a heslo. Také by měla být možna registrace a přihlášení přes **Google**, **Facebook** **Instagram**.
+Do aplikace by se mělo jít přihlásit přes E-Mail a heslo. Také by měla být možna registrace a přihlášení přes **Google**, **Facebook** a **Instagram**.
 ## Profile
 V záložce profile máme svů profil, kde  vidíme svoje jméno, handicap, počet zapsaných kol, nejlepší zapsané skóre za kolo, průměrné skóre za kolo a své přidané přátelé.
 * Také tam je možnost přidání přátel, kde by měl být list z serveru ČGF, kde jsou všichni hráči České Golfové Federace. A další tlačítko umužňuje ukázání listu všech vašich přidaných přátel.
